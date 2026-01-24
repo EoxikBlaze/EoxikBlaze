@@ -39,11 +39,11 @@ Berdasarkan screenshot aktivitas terbaru, berikut adalah proyek kunci yang sedan
 
 | Project | Kategori | Status | Deskripsi |
 | :--- | :--- | :--- | :--- |
-| **[Fermentax](https://github.com/oxikBlaze/Fermentax-Source-Code-Flutter)** | 🌾 IoT / AgriTech | `Prototype` | Sistem fermentasi pupuk organik pintar berbasis ESP32 & Flutter. |
-| **[Stunting Anak Satui](https://github.com/oxikBlaze/stunting_anak_satui)** | 👶 Health Tech | `In-Dev` | Aplikasi monitoring data stunting untuk Posyandu/Bidan desa di Satui. |
-| **[UMKM Satui PM](https://github.com/oxikBlaze/umkm_satui_pm)** | 🛒 E-Commerce | `Planning` | Platform marketplace digital untuk pemberdayaan UMKM lokal. |
-| **[Portal Pelayanan](https://github.com/oxikBlaze/website_portal_pelayanan)** | 🏛️ Web App | `Active` | Sistem portal pelayanan publik terpadu. |
-| **[Absensi PAMA](https://github.com/oxikBlaze/website_absensi_1pama_dupl)** | 🏭 Internal Tool | `Maintenance` | Sistem absensi karyawan (Clone/Development version). |
+| **[Fermentax](https://github.com/EoxikBlaze/Fermentax-Source-Code-Flutter)** | 🌾 IoT / AgriTech | `Prototype` | Sistem fermentasi pupuk organik pintar berbasis ESP32 & Flutter. |
+| **[Stunting Anak Satui](https://github.com/EoxikBlaze/stunting_anak_satui)** | 👶 Health Tech | `In-Dev` | Aplikasi monitoring data stunting untuk Posyandu/Bidan desa di Satui. |
+| **[UMKM Satui PM](https://github.com/EoxikBlaze/umkm_satui_pm)** | 🛒 E-Commerce | `Planning` | Platform marketplace digital untuk pemberdayaan UMKM lokal. |
+| **[Portal Pelayanan](https://github.com/EoxikBlaze/website_portal_pelayanan)** | 🏛️ Web App | `Active` | Sistem portal pelayanan publik terpadu. |
+| **[Absensi PAMA](https://github.com/EoxikBlaze/website_absensi_1pama_dupl)** | 🏭 Internal Tool | `Maintenance` | Sistem absensi karyawan (Clone/Development version). |
 
 ---
 
