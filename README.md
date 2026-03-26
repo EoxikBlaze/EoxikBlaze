@@ -2,10 +2,10 @@
 <h3 align="center">IoT Engineer | Flutter Developer | TRKJ Student at Politala</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-anda">
+  <a href="https://www.linkedin.com/in/muhammad-rizki-274b6a331/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:email-anda@example.com">
+  <a href="mailto:kawaliggml@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
@@ -13,7 +13,7 @@
 ---
 
 ### 👷‍♂️ Currently: On-Site Deployment (PKL)
-Saat ini saya sedang menjalani Praktik Kerja Lapangan (PKL) di area pertambangan **Satui**. Fokus utama saya adalah digitalisasi proses manual dan pengembangan solusi IoT untuk komunitas sekitar.
+Saat ini saya sedang menjalani Praktik Kerja Lapangan (PKL) di area pertambangan **Satui**. Fokus utama saya adalah digitalisasi proses manual.
 
 - 🔭 **Current Focus:** Mengintegrasikan ESP32 dengan Flutter untuk monitoring presisi.
 - 🌱 **Learning:** State Management yang efisien (BLoC/Provider) & Microcontroller Power Management.
