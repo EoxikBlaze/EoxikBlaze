@@ -62,7 +62,6 @@ Beberapa proyek utama yang telah saya kembangkan dan kelola di GitHub:
 ### 📬 Hubungi Saya
 
 *   **GitHub**: [@EoxikBlaze](https://github.com/EoxikBlaze)
-*   **LinkedIn**: [Profil Anda](https://linkedin.com/in/username-anda) *(Ganti dengan username LinkedIn Anda)*
+*   **LinkedIn**: [Profil Anda]([https://linkedin.com/in/username-anda](https://www.linkedin.com/in/muhammad-rizki-274b6a331/))
 
 ---
-*README ini dibuat otomatis menggunakan Antigravity AI Coding Assistant.*
